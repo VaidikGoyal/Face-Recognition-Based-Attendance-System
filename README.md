@@ -4,3 +4,4 @@
  Python language was used and Virtual Environment was made in Pycharm .
  OpenCV library using Haar Cascade algorithm for Face Detection and LBPH algorithm for Face Recognition were implemented .
  Can detect single or multiple faces at a time and mark their attendance into database .
+ The repository is open-source, allowing for collaboration and contributions from other developers.
